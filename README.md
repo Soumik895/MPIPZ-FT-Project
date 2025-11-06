@@ -1,4 +1,4 @@
-# Stochastic Modeling of FT Gene Transcription Bursts
+# Stochastic Modelling of FT Gene Transcription Bursts
 
 This repository contains Python scripts for the stochastic simulation of transcriptional bursting of the **FLOWERING LOCUS T (FT)** gene. This work is a computational approach to the project proposal from the **Max Planck Institute for Plant Breeding Research (MPIPZ)**.
 
