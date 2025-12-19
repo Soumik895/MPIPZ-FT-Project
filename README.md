@@ -1,7 +1,6 @@
 # Stochastic Modelling of FT Gene Transcription Bursts
 
-This repository contains Python scripts for the stochastic simulation of transcriptional bursting of the **FLOWERING LOCUS T (FT)** gene. This work is a computational approach to the project proposal from the **Max Planck Institute for Plant Breeding Research (MPIPZ)**.
-
+This repository contains Python scripts for the stochastic simulation of transcriptional bursting of the **FLOWERING LOCUS T (FT)** gene. 
 The core hypothesis is that the deletion of two distal enhancers for the FT gene does not affect the duration of transcription bursts, but instead **lengthens the refractory (inactive) time** between bursts.
 
 The models in this repository are built to test this hypothesis by comparing simulations of a **"wild-type" (4-state)** and **"mutant" (2-state)** system.
@@ -47,4 +46,4 @@ By comparing the outputs of these two models (specifically the time spent in the
 
 ## 2. Project Context
 
-This code was developed as part of a Statement of Purpose for the MPIPZ - IISERs Master Internship Proposal titled "Stochastic modelling of the transcription bursts of FLOWERING LOCUS T in Arabidopsis thaliana." The goal is to use these models as a starting point to find parameters that can recapitulate the experimental snRNAseq data provided by the lab.
+This code was developed for the project titled "Stochastic modelling of the transcription bursts of FLOWERING LOCUS T in Arabidopsis thaliana." The goal is to use these models as a starting point to find parameters that can recapitulate the experimental snRNAseq data.
